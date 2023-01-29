@@ -1,0 +1,8 @@
+.container {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25vh;
+    padding-bottom: 20vh;
+    text-align: center;
+}
