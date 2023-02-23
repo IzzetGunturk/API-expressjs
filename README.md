@@ -1,6 +1,6 @@
 # API with express.js
 
-I made my own API with express.js
+I programmed my own API with express.js
 
 ## Installation instructions
 
