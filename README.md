@@ -2,6 +2,9 @@
 
 I programmed my own API with express.js
 
+## 🛠️ Technologies
+- Express.js
+
 ## Installation instructions
 
 run `npm install`
